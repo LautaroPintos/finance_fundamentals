@@ -26,4 +26,6 @@ git remote add origin https://github.com/LautaroPintos/finance_fundamentals.git
 git push -u origin main
 ```
 
+En estos casos nos va a pedir nuestro usuario y la clave de developer que la encontramos en github -> settings -> Developer settings  -> Personal access token
+Este token lo tenemos que guardar para luego pushear los próximos cambios
 
