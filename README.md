@@ -37,3 +37,8 @@ Cuando querramos cerrar el ambiente lo que tenemos que escribir en la consola es
 deactivate
 ```
 
+
+#### Créditos (citations)
+
+* https://github.com/ranaroussi/yfinance
+
