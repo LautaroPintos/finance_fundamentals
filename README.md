@@ -2,7 +2,7 @@
 
 El objetivo del repositorio es que sirva como guía rápida de como podemos utilizar python para analizar datos del mercado bursatil, cuales son los primeros pasos que tenemos que dar, cuales son los problemas típicos y como convertimos estos datos en información.
 
-#### Primeros pasos
+### Primeros pasos
 
 Lo primero que tenemos que hacer es configurar el ambiente para que podamos trabajar como lo haría un analista de datos. Para esto ya vamos a tener que tener instalado Python y un IDE (de preferencia VScode)
 
@@ -37,6 +37,19 @@ Cuando querramos cerrar el ambiente lo que tenemos que escribir en la consola es
 deactivate
 ```
 
+### Paquetes instalados
+
+En en la carpeta de docs van a encontrar el archivo "requeriments.txt" con todas las librerías utilizadas en el repositorio. La versión de python utilizada es "Python 3.12.3"
+
+```python
+pip freeze > requirements.txt
+```
+
+Para luego instalar todas las librerías deberíamos hacer:
+
+```python
+pip install -r requirements.txt
+```
 
 #### Créditos (citations)
 
